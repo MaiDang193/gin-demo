@@ -1,0 +1,14 @@
+.idea
+*.gz
+*.zip
+*.exe
+
+_test.go
+*_test.go
+
+# Folders
+_obj
+_test
+
+
+logs
